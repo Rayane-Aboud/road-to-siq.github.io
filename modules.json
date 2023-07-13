@@ -1,0 +1,72 @@
+{ 
+    "years":[
+        {
+            "name":"1cp",
+
+            "semesters":[
+                    {
+                        "name":"S1",
+                        "modules":["ELECT","BWEB","ANA1","ALSDS",
+                                "ARCHI1","ALG1","SYST1","TEE"]
+                    },
+                    
+                    {
+                        "name":"S2",
+                        "modules":["ALSDD","SYST2","ANG1","TEO",
+                                "ALG2","ANA2","ELECF1","MECA"]
+                    }
+                ]
+        },
+
+        {
+            "name":"2cp",
+
+            "semesters":[
+                    {
+                        "name":"S3",
+                        "modules":["ECON","ANA3","ARCHI2","ELECF2",
+                                "ANG2","ALG3","SFSD","PRST1"]
+                    },
+                    
+                    {
+                        "name":"S4",
+                        "modules":["ANG3","LOGM","OPTOE","PRST2",
+                                "POO","ANA4","SINF","PRJP"]
+                    }
+                ]
+        },
+        {
+            "name":"1cs",
+            "semesters":[
+                    {
+                        "name":"S5",
+                        "modules":["SYC1","IGL","RO","THP",
+                                "ORGA","RES1","ANUM","ANG4"]
+                    },
+                    
+                    {
+                        "name":"S6",
+                        "modules":["ARCHI3","CPRJ","ANG5","RES2",
+                                "Projet 1CS","BDD","MCSI","SEC","SYC2"]
+                    }
+                ]
+        },
+        {
+            "name":"2cs siq",
+            "semesters":[
+                {
+                    "name":"S1",
+                    "modules":["RESA","TPGO","COMPIL","ANAD",
+                            "FAS","TSG","HPC","VCL","STAGE"]
+                },
+                
+                {
+                    "name":"S2",
+                    "modules":["SSR","SYSR","BDA","Projet 2cs",
+                            "OPTIM","ALOG","IMN","ML","RV","SCI"]
+                }
+            ]
+        }
+
+    ]
+}
