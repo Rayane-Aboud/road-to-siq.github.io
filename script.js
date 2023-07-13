@@ -544,10 +544,10 @@ fetch('modules.json')
         //ML
         var ML = document.getElementById('ML');
         ML.addEventListener("mouseover",function() {
-            set_style("ML", ["ANA1","ANA2","ANA3","ANA4","PRST1","PRST2","ANAD"], [], []);
+            set_style("ML", ["ALG1","ALG2","ALG3","ANA1","ANA2","ANA3","ANA4","PRST1","PRST2","ANAD"], [], []);
         });
         ML.addEventListener("mouseout",function() {
-            remove_style("ML", ["ANA1","ANA2","ANA3","ANA4","PRST1","PRST2","ANAD"], [], []);
+            remove_style("ML", ["ALG1","ALG2","ALG3","ANA1","ANA2","ANA3","ANA4","PRST1","PRST2","ANAD"], [], []);
         });
         //RV
 });     
